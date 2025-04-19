@@ -1,5 +1,5 @@
 # 3droomgenerationgdscript
-3D Room Generation GDScript
+3D Room Generation GDScript made for Godot 4.2.1
 
 This is a GDScript file used for creating randomly generated 3D dungeons in the Godot Engine.
 This script is essentially a 3D recreation of Derek Yu's Spelunky level generation.
