@@ -21,4 +21,4 @@ NOTES
 - Of course you can use this system however you like, but it may be in your interset to fill bulk rooms with random sets of openings to create emergent pathing away from the main path.
   This would be how you give the player access to the bonus rooms.
 - This script generates levels that start at the top and end at the bottom. If you would like to reverse this it will require switching around some math in the script.
-  If you would like with this
+  If you would like with this feel free to reach out - blumakesgames@gmail.com
